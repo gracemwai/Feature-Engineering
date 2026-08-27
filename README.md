@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster Titanic 
+# Titanic - Machine Learning from Disaster 
 
 ##  Project Overview
 This project builds a predictive model to determine which passengers survived the Titanic shipwreck using passenger data (such as age, gender, socio-economic class, etc.). This is a binary classification problem focused on data preprocessing, feature engineering, and model evaluation.
@@ -21,7 +21,7 @@ This project builds a predictive model to determine which passengers survived th
 ##  Results
 The classification model achieved the following baseline performance on the test set:
 * **Accuracy Score:** [0.8206106870229007 for label encoding and   0.8244274809160306 for one hot encoding]
-## ⚙️ How to Run This Project
+##  How to Run This Project
 1. Clone the repository using SSH:
    ```bash
    git clone git@github.com:gracemwai/Feature-Engineering.git
